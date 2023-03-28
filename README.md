@@ -5,5 +5,5 @@
 
 🗣 I am currently beefing up my technical skills to transition into a more technical role within a product org and pursuing my dreams of becoming a social entrepreneur
 
-👥  My interests include helping further drive the missions of organizations that value equity & inclusivity. Some other areas of interest and focus - Javascript, AI/Machine Learning, Python, Swift, Kotlin
+👥  My interests include helping further drive the missions of organizations that value equity & inclusivity. Some other areas of interest and focus - Accessibility, Javascript, AI/Machine Learning, Python, Swift, Kotlin
 
