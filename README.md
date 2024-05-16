@@ -1,9 +1,8 @@
 
 
-👋🏽 I am a curious, resourceful, and empathetic technologist who is fuelled by a passion for innovative solutions which add value to our daily lives.
- My diverse skillset and pursuits allow me to merge technology, human-centered design, data, and empathy to effectively validate problems and create solutions that derive user value while creating a business impact. 
+👋🏽 Hello! I am a curious, resourceful, and empathetic technologist with a passion for creating innovative solutions that enhance our daily lives. Experienced across various mobile application tech stacks, including native iOS in Swift and React Native development, I am particularly keen on Android and am further deepening my expertise in native Android development with Kotlin.
 
-🗣 I am currently beefing up my technical skills to transition into a more technical role within a product org and pursuing my dreams of becoming a social entrepreneur
+🗣 My diverse skill set allows me to blend technology, human-centered design, data, and empathy to effectively identify problems and craft solutions that deliver user value while driving business impact. 
+ I am prepared to contribute my skills in a technical role within a product organization.
 
-👥  My interests include helping further drive the missions of organizations that value equity & inclusivity. Some other areas of interest and focus - Swift, Kotlin, Accessibility, Javascript, AI/Machine Learning
-
+👥 I am committed to supporting organizations that value equity and inclusivity. My other areas of interest and focus include UX/UI design, Accessibility, and AI/Machine Learning.
