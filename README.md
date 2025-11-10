@@ -1,6 +1,6 @@
 
 
-👋🏽 Hello! I am a curious, resourceful, and empathetic technologist with a passion for creating innovative solutions that enhance our daily lives. 
+👋🏽 Hello! I am a curious, resourceful, and empathetic technologist with a passion for creating practical solutions that enhance our daily lives. 
 
 I started in operations and product, wearing multiple hats in startups and purpose-driven orgs. Curiosity led me to explore different roles within product, building a strong foundation in problem-solving and cross-functional collaboration. A proud moment was leading a learning platform launch, boosting engagement by 15% through data-driven improvements.
 
