@@ -6,6 +6,6 @@ I started in operations and product, wearing multiple hats in startups and purpo
 
 Working closely with engineers sparked my pivot into development, rounding out my skill set. Now, I build automation systems and AI native applications focusing on practical problem-solving, great user experiences, strong architecture, testing, and performance. 
 
-My biggest learning? Every skill compounds. Understanding product, business, and engineering gives me a unique edge as a developer who sees the bigger picture.
+My biggest learning? Every skill compounds. Understanding product, business, and engineering gives me a unique edge as a builder who sees the bigger picture.
  
 👥 I am committed to supporting organizations that value equity and inclusivity. My other areas of interest and focus include security, UX/UI design, Digital Accessibility, and AI/Machine Learning for good.
